@@ -9,7 +9,7 @@
         "2606:4700:110:88ec:5eff:798e:5d38:e526/128"
       ],
       "private_key": "aPAc/o8lYJhTJrQljIU5+HnYi+v+p+up35AEUoaAWkk=",
-      "server": "1162.159.192.103”,
+      "server": "162.159.192.103”,
       "server_port": 8319,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [163,49,100],
