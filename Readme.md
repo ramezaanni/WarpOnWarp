@@ -1,12 +1,12 @@
 # Warp on Warp
 
-[This Config file](WoW/WarpOnWarp-HiddifyNext.json) can be used directly in the [Hiddify Next](https://github.com/hiddify/hiddify-next/releases) App. But it is better to make your personal warp config to have better speed and lower delay.
+[This Config file](WarpOnWarp/WarpOnWarpFreeKey) can be used directly in the [Hiddify Next](https://github.com/hiddify/hiddify-next/releases) App. But it is better to make your personal warp config to have better speed and lower delay.
 
 ## How to make it?
 
 ### Android, Linux and Mac
 
-1. Copy the [Config file](WoW/WarpOnWarp-HiddifyNext.json) to an editor.
+1. Copy the [Config file](WarpOnWarp/WarpOnWarpFreeKey) to an editor.
 2. Run the below command in the termux(Android Shell), linux or mac to acquire best working IP/Ports of the Cloudflare Warp. After running select option 1.
 ```
 curl -sSL https://gitlab.com/rwkgyg/CFwarp/raw/main/point/endip.sh -o endip.sh && chmod +x endip.sh && ./endip.sh
