@@ -42,8 +42,8 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "IP->Iran, Yotube:MisaHiro",
-        "IP->Main, Yotube:MisaHiro"
+        "IP->Iran",
+        "IP->Main"
       ],
       "url": "http://cp.cloudflare.com/",
       "interval": "10m0s"
