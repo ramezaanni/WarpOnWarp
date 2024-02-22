@@ -65,8 +65,8 @@
     },
     {
       "type": "wireguard",
-      "tag": "IP->Main",
-      "detour": "IP->Iran",
+      "tag": "IP->Main, Yotube:MisaHiro",
+      "detour": "IP->Iran, Yotube:MisaHiro",
       "local_address": [
         "172.16.0.2/32",
         "2606:4700:110:8c15:3f90:ad2d:8810:77f3/128"
