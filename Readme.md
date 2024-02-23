@@ -1,3 +1,25 @@
+
+### Easy Way
+
+Auto without license
+warp://auto
+
+
+Auto with license
+warp://license@auto
+
+
+ip clean without license
+warp://ip:port/?ifp=5-10
+example:
+warp://188.114.96.195:968/?ifp=5-10
+
+
+ip clean with license
+warp://license@ip:port/?ifp=5-10
+
+
+
 # Warp on Warp
 
 [This Config file](WarpOnWarpFreeKey) can be used directly in the [Hiddify Next](https://github.com/hiddify/hiddify-next/releases) App. But it is better to make your personal warp config to have better speed and lower delay.
@@ -25,22 +47,6 @@ Use steps of the previous section, but:
  - Instead of step 2, Extract [this zip file](https://raw.githubusercontent.com/Elfiinaa/ConfigFiles/main/WoW/WarpIPScanner-Win-v23.11.15.zip) and open the WarpIPEndpointScanner.bat to start the scanner.
  - Instead of step 4, download and run windows version of [Warp-Reg](https://github.com/badafans/warp-reg/releases).
 
-### Other
-
-Auto without license
-warp://auto
-
-
-Auto with license
-warp://license@auto
-
-
-ip clean without license
-warp://ip:port/?ifp=5-10
-
-
-ip clean with license
-warp://license@ip:port/?ifp=5-10
 
  ## Credits
  
